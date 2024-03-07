@@ -7,3 +7,18 @@ The topics in the Project Plan:
 The step after this is, to decide who is going to work on what task. As there is a group of 3 each person will have one topic to themselves, but at least 2 group members will contribute to each topic. So realistically, everyone will put in the same amount of work.
 
 Tasks: 
+
+
+
+Gitflow Process: 
+-Review the pull request
+-Accept the pull request
+-Create a feature branch
+-Commit chnages to the feature branch
+-Push feature branch to remote repository
+-Create Pull request
+-Review and feedback
+-Merge pull request into develop
+-Pull latest changes ftom develop
+-Update source repository with all changes
+-Repeat for each task.
