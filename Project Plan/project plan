@@ -13,7 +13,9 @@ The step after this is, to decide who is going to work on what task. As there is
 | Task Estimation in Scrum | Manee Alajmi & Asma Soomro|
 | Coding Standards | Asma Soomro & Shaiza Mujahid|
 | Code Reviews | Shaiza Mujahid & Manee Alajmi |
-| Project Plan/ Introduction | Asma Soomro & Shaiza Mujahid|
+| Project Plan | Introduction | Asma Soomro & Shaiza Mujahid|
+
+2 Team members will be working on the same topics so in order to avoid any issues or overlaps we can review each other's work. Once one person has added to their topic they can let the other team member know so they are up to date with any research made by the other team member. The project plan was modified after each team member had chosen their topic as well as a second team member and the Github Repository was made so each team member could follow the Gitflow process. All team members work on a feature branch before merging it to the develop branch. Before merging to develop branch each team member must review the work.
 
 Gitflow Process: 
 -Review the pull request
@@ -27,3 +29,21 @@ Gitflow Process:
 -Pull latest changes ftom develop
 -Update source repository with all changes
 -Repeat for each task.
+
+Asma's Tasks
+- Find 3 articles on topic first picked.
+- Find 2 more articles on topic contributing to. 
+- Write minimum 500 words on first topic and another 200-300 on second.
+- Inlcude any diagrams or images.
+
+Shaiza's Tasks
+- Find 3 articles on topic first picked.
+- Find 2 more articles on topic contributing to. 
+- Write minimum 500 words on first topic and another 200-300 on second.
+- Inlcude any diagrams or images.
+
+Manee's Tasks
+- Find 3 articles on topic first picked.
+- Find 2 more articles on topic contributing to. 
+- Write minimum 500 words on first topic and another 200-300 on second.
+- Inlcude any diagrams or images.
