@@ -6,9 +6,14 @@ The topics in the Project Plan:
 
 The step after this is, to decide who is going to work on what task. As there is a group of 3 each person will have one topic to themselves, but at least 2 group members will contribute to each topic. So realistically, everyone will put in the same amount of work.
 
-Tasks: 
-
-
+##### Tasks
+##
+| Task | Team Member |
+| ------ | ------ |
+| Task Estimation in Scrum | Manee Alajmi & Asma Soomro|
+| Coding Standards | Asma Soomro & Shaiza Mujahid|
+| Code Reviews | Shaiza Mujahid & Manee Alajmi |
+| Project Plan/ Introduction | Asma Soomro & Shaiza Mujahid|
 
 Gitflow Process: 
 -Review the pull request
