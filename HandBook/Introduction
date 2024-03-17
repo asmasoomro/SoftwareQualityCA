@@ -5,3 +5,4 @@ This is a manual for the company that outlines Codeck Software's software qualit
 This document serves as a standard for task estimation in scrum, coding standards, and code reviews throughout the organisation. 
 The goal of this manual is to lower the possibility that flaws and unpredictable events may find their way into production. 
 This guide will provide a quick overview of the subject and highlight the best practices and standards selected based on the authors' own experiences in each of the three categories. When appropriate, references to additional articles will be given for reading.
+Each topic will have its own Introduction in each file, explaining each topic briefly and then going into detail with links to articles etc.
