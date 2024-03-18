@@ -24,4 +24,8 @@ Article - https://yourstory.com/mystory/coding-standards-benefits-requirements-p
 
 **Easier Debugging:** By making code more readable and organized, coding standards make debugging easier. This is particularly beneficial when debugging is carried out by developers who are not the original authors of the code since it saves time and effort.
 
-**Economical Maintenance:** Development time and expenses are decreased by the ease of reuse and maintenance of standardized code. Even in the event that the original developer is not there, it enables simple code functionality references. To further enhance system flexibility, coding standards can be modified to satisfy organizational needs.
+**Economical Maintenance:** Development time and expenses are decreased by the ease of reuse and maintenance of standardized code. Even in the event that the original developer is not there, it enables simple code functionality references. To further enhance system flexibility, coding standards can be modified to satisfy organisational needs.
+
+Even when coding best practices are followed, extensive testing on actual browsers and devices is crucial. It is advised to use a real device cloud for instantaneous testing with real devices, browsers, and operating systems, as emulators and simulators may have restrictions. Accurate performance testing is made possible by testing on real devices in the cloud. This ensures thorough and error-free testing to find major flaws before production. In the end, this strategy improves the software's user experience.
+![alt text](<Screenshot 2024-03-18 222540.png>) 
+Reference - https://www.browserstack.com/guide/coding-standards-best-practices 
