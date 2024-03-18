@@ -18,6 +18,7 @@ A team can start drafting their Coding Standards paper after taking into account
 
 ##### Benefits Offered by Coding Standards: 
 Article - https://yourstory.com/mystory/coding-standards-benefits-requirements-performance
+
 **Decreased Failure Rate:** Coding standards improve source code's efficiency and readability, which helps developers better comprehend code modules. By guaranteeing appropriate architecture and module coupling, this effectively meets customer requests and lowers project failure rates.
 
 **Optimized Development Time:** By lowering errors and guaranteeing code quality, coding standards implementation expedites development time. By completing projects on schedule, this helps software development companies stay competitive and gain the trust of their clients.
