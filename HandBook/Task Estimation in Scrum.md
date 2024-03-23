@@ -74,6 +74,7 @@ Project managers are recommended to concentrate solely on Five Core Metrics in o
 - Size
 - Productivity
 - Reliability
+
 Larry Putnam Sr., who wrote a book on these Five Metrics had the following argument:
 "by simplifying the estimation process and tuning into the areas that truly matter can help managers better assess risk factors, anticipate and respond to changes, and successfully re-plan their projects as necessary. It addresses the common misperception that software project estimation is too hard and complicated. That certainly does not have to be the case."
 
