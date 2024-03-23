@@ -60,11 +60,21 @@ Identifying and establishing Dependency Mitigation Strategies. Possible sources 
 
 We will have weekly team briefings and monthly overall assessments with briefings to update on the estimates and readjust the sprints as needed. 
 
-Why use Planning Poker? :
+**Why use Planning Poker? :**
 - Enables the group to assign work according to each other.
 - A plan that the team members contributed to feels more devoted to, and as a result, the outcome is typically better.
 - Potential problems are found early on instead of later.
 - Generates fresh concepts. Talking about a user narrative can stimulate ideas that could lead to a solution that is optimized at a lower estimate.
+
+**Prioritize the Five Core Metrics**
+Project managers are recommended to concentrate solely on Five Core Metrics in order to provide precise and reliable estimates, so minimizing the initial fear and messiness that may accompany beginning a huge new project:
+- Duration
+- Effort
+- Size
+- Productivity
+- Reliability
+Larry Putnam Sr., who wrote a book on these Five Metrics had the following argument:
+"by simplifying the estimation process and tuning into the areas that truly matter can help managers better assess risk factors, anticipate and respond to changes, and successfully re-plan their projects as necessary. It addresses the common misperception that software project estimation is too hard and complicated. That certainly does not have to be the case."
 
 
 
