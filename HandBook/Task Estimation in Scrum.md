@@ -14,7 +14,9 @@ The following acceptance criteria must be incorporated into the project for the 
 
 
 •	Production cost reduction without compromising on the quality of the product.
+
 •	Ensuring that both the functional and non-functional aspects of the quality are increased and streamlined.
+
 •	Ensure scalability and sustainability aspects are incorporated into the system. 
 
 
