@@ -67,6 +67,7 @@ We will have weekly team briefings and monthly overall assessments with briefing
 - Generates fresh concepts. Talking about a user narrative can stimulate ideas that could lead to a solution that is optimized at a lower estimate.
 
 **Prioritize the Five Core Metrics**
+
 Project managers are recommended to concentrate solely on Five Core Metrics in order to provide precise and reliable estimates, so minimizing the initial fear and messiness that may accompany beginning a huge new project:
 - Duration
 - Effort
