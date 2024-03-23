@@ -20,6 +20,8 @@ The following are just a few of the reasons why organisations and individuals ou
 4. Enhancing the efficiency of the code
 5. Exchanging novel methods
 Code review provides a new pair of eyes to find bugs and basic coding errors before your product moves on to the next stage, which expedites the delivery of software to the customer. It's great to just go over someone's code and point out mistakes. However, there must also be some accountability and follow-up when it comes to the code peer review procedure. Before going into production, make sure there is a procedure in place for checking in again to make sure any code discrepancies have been resolved.
-**Article** - [Reasons why the Code Review Process is Important for Developers](https://www.brightspot.com/cms-resources/technology-insights/5-reasons-why-the-code-review-process-is-critical-for-developers#:~:text=Code%20review%20helps%20give%20a,and%20identifying%20errors%20is%20great)  
 
+Article - [Reasons why the Code Review Process is Important for Developers](https://www.brightspot.com/cms-resources/technology-insights/5-reasons-why-the-code-review-process-is-critical-for-developers#:~:text=Code%20review%20helps%20give%20a,and%20identifying%20errors%20is%20great)  
+
+![The code review process] (https://browserstack.wpenginepowered.com/wp-content/uploads/2023/09/Code-Review-Process.png) 
 
