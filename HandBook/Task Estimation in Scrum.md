@@ -60,6 +60,12 @@ Identifying and establishing Dependency Mitigation Strategies. Possible sources 
 
 We will have weekly team briefings and monthly overall assessments with briefings to update on the estimates and readjust the sprints as needed. 
 
+Why use Planning Poker? :
+- Enables the group to assign work according to each other.
+- A plan that the team members contributed to feels more devoted to, and as a result, the outcome is typically better.
+- Potential problems are found early on instead of later.
+- Generates fresh concepts. Talking about a user narrative can stimulate ideas that could lead to a solution that is optimized at a lower estimate.
+
 
 
 
