@@ -23,5 +23,7 @@ Code review provides a new pair of eyes to find bugs and basic coding errors bef
 
 Article - [Reasons why the Code Review Process is Important for Developers](https://www.brightspot.com/cms-resources/technology-insights/5-reasons-why-the-code-review-process-is-critical-for-developers#:~:text=Code%20review%20helps%20give%20a,and%20identifying%20errors%20is%20great)  
 
-![The code review process] (https://browserstack.wpenginepowered.com/wp-content/uploads/2023/09/Code-Review-Process.png) 
+![The code review process](https://browserstack.wpenginepowered.com/wp-content/uploads/2023/09/Code-Review-Process.png)
+
+
 
