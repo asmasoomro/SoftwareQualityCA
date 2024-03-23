@@ -48,3 +48,28 @@ Manee's Tasks
 - Find 2 more articles on topic contributing to. 
 - Write minimum 500 words on first topic and another 200-300 on second.
 - Inlcude any diagrams or images.
+
+| Team Member   | Contribution                                  | Verified By        |
+|---------------|-----------------------------------------------|--------------------|
+| Asma Soomro   | - Coding Standards                            | Manee, Shaiza      |
+|               | - Added to Task Estimation                    |                    |
+|               | - Arranged meetings                           |                    |
+|               | - Created Repository                          |                    |
+|               | - Made sure all team members were okay        |                    |
+|               |   and if anyone needed any further help       |                    |
+| Shaiza Mujahid| - Code Reviews                                | Asma, Manee        |
+|               | - Added to Coding Standards                   |                    |
+|               | - Reviewed all files making sure up to date   |                    |
+|               | - Contributed to Project Plan                 |                    |
+| Manee Alajmi  | - Task Estimation in Scrum                    | Shaiza, Asma       |
+|               | - Added to Code Reviews                       |                    |
+|               | - Contributed to Intro                        |                    |
+|               | - Re read everything and made sure it was     |                    |
+|               |   good to go.                                 |                    |
+
+
+Things we would do differently: 
+- Have More meetings
+- Make sure each Team member followed the Gitflow process
+- Check the Feature Branches and leave more comments 
+- Have a certain day in which half of the project should have been complteted.         
