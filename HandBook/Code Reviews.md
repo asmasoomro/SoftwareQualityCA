@@ -10,7 +10,8 @@ Code review is a software quality assurance activity in which source code is vie
 1. The modifications are not feasible to execute
 2. The modifications are able to be put into practice.
 - A piece of code can be approved for merging into the main branch if it complies with standards and has been examined by every team member.
-**Article** - [Utilising both Objective and Subjective data to examine the efficacy of peer code review in distributed software development](https://jserd.springeropen.com/articles/10.1186/s40411-018-0058-0)
+Article - [Utilising both Objective and Subjective data to examine the efficacy of peer code review in distributed software development](https://jserd.springeropen.com/articles/10.1186/s40411-018-0058-0)
+![The code review process](https://browserstack.wpenginepowered.com/wp-content/uploads/2023/09/Code-Review-Process.png)
 # Why we Review Code ? 
 The following are just a few of the reasons why organisations and individuals ought to incorporate code reviews into their projects.
 
@@ -23,7 +24,7 @@ Code review provides a new pair of eyes to find bugs and basic coding errors bef
 
 Article - [Reasons why the Code Review Process is Important for Developers](https://www.brightspot.com/cms-resources/technology-insights/5-reasons-why-the-code-review-process-is-critical-for-developers#:~:text=Code%20review%20helps%20give%20a,and%20identifying%20errors%20is%20great)  
 
-![The code review process](https://browserstack.wpenginepowered.com/wp-content/uploads/2023/09/Code-Review-Process.png)
+
 
 
 
