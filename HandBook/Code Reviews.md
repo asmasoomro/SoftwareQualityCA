@@ -24,6 +24,13 @@ Code review provides a new pair of eyes to find bugs and basic coding errors bef
 
 Article - [Reasons why the Code Review Process is Important for Developers](https://www.brightspot.com/cms-resources/technology-insights/5-reasons-why-the-code-review-process-is-critical-for-developers#:~:text=Code%20review%20helps%20give%20a,and%20identifying%20errors%20is%20great)  
 
+# Techniques for Code Reviews
+- Less formal: Over-the-shoulder: The developer examines the code while standing behind the author's shoulder. This review is unofficial.
+- Pass-around email: For code review, the author emails the code to the reviewers. It is recommended to use this method for open-source projects.
+- Pair programming involves two programmers working together on a single machine to write the code. On a single machine, one developer writes the code and another reviews it simultaneously. This method takes a lot of time.
+- Tool-Based (More Formal): A small number of specialised tools are used to review the code and offer the ability to interact and offer comments and feedback.
+
+Article - [Code Review Techniques](https://blog.stackademic.com/code-review-software-engineering-bedff59f5a16)
 
 
 
