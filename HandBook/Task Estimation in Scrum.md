@@ -83,8 +83,8 @@ Larry Putnam Sr., who wrote a book on these Five Metrics had the following argum
 
 # Resources
 
-1.	Agile Estimating and Planning 1st Edition by Mike Cohn
-2.	The Art of Agile Estimation : Second edition (2021)
-3.	https://www.linkedin.com/pulse/challenges-agile-estimation-tyme-vietnam
-4.	https://www.linkedin.com/advice/0/what-some-common-challenges-pitfalls-managing
-5.	https://world.hey.com/dhh/your-estimates-suck-2b9f8445
+1. [Agile Estimating and Planning 1st Edition by Mike Cohn](https://www.mountaingoatsoftware.com/uploads/presentations/Agile-Estimating-Planning-Scrum-Gathering-2006.pdf)
+2.	[The Art of Agile Development: Estimating](https://www.jamesshore.com/v2/books/aoad1/estimating)
+3.	[Challenges in Agile Estimation](https://www.linkedin.com/pulse/challenges-agile-estimation-tyme-vietnam)
+4.	[What are some common challenges or pitfalls of managing a scrum product backlog and how do you overcome them?](https://www.linkedin.com/advice/0/what-some-common-challenges-pitfalls-managing)
+5.	[Your estimates suck](https://world.hey.com/dhh/your-estimates-suck-2b9f8445)

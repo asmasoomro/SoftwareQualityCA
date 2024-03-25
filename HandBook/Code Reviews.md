@@ -33,5 +33,25 @@ Article - [Reasons why the Code Review Process is Important for Developers](http
 Article - [Code Review Techniques](https://blog.stackademic.com/code-review-software-engineering-bedff59f5a16)
 
 
+# The main goal of Code Review
+
+Sharing knowledge and learning from one another should be the primary objectives of code review; it should be a two-way process.
+
+This principle actually serves as the foundation for everything else:
+
+Therefore, all of the aforementioned factors have an impact on the quality of the code, which in turn affects the quality of the final product. Sharing information indicates the need for interaction and cooperation, which in turn contributes to team integration.
+
+Article - [Code Review — Danse Macabre](https://medium.com/@father-bart/code-review-danse-macabre-0ae53194fb9e)
 
 
+
+# Get to know your team - Code Review
+
+If you get to know your colleagues, it will be much easier for you to recognize their strengths and weaknesses. Three objectives will be achieved by doing this:
+
+provide you with an idea of the types of mistakes, anti-patterns, or omissions they commonly commit.
+allow you to understand the fundamental reasons for their behavior.
+
+![alt text](<team.png>)
+
+Article - [A guide to code review](https://medium.com/engineering-at-birdie/a-guide-to-code-review-9a7d39caec37)
